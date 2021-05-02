@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "850188719442",
+    "project_id": "recetas-app-flutter-73b73",
+    "storage_bucket": "recetas-app-flutter-73b73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850188719442:android:1d9dfd7273984e2412d68b",
+        "android_client_info": {
+          "package_name": "com.recetasflutter.augustocastillo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850188719442-i6laqknonmoiji96lm2pc8ef2mlglci3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.recetasflutter.augustocastillo",
+            "certificate_hash": "2be889b9428beab76da6f7ed7d3994cfa368930a"
+          }
+        },
+        {
+          "client_id": "850188719442-dfeve4a238o0l0cbmnkn0sg072pn1u2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVpGDeC0Sv6No5ylqQlOYYy71gkq0NzY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850188719442-dfeve4a238o0l0cbmnkn0sg072pn1u2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
